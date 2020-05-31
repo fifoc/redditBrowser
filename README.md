@@ -9,7 +9,7 @@ This repo contains 2 things:
 
 Go files are the special image server needed  to convert reddit .png to .fif
 
-The viewer has a variable that defines what server to use, so you probably don't need the server yourself unless you don't trust me.
+The viewer has a variable that defines what server to use, so you probably don't need the server yourself unless you don't trust me. For the server you also need error.fif otherwise it won't work.
 
 There is also .lua files (libfif.lua and redditViewer.lua)
 
